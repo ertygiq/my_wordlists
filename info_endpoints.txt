@@ -25,3 +25,7 @@
 /api/sysinfo
 /api/systeminfo
 /api/internal
+/api/token
+/api/tokens
+/api/admin
+
